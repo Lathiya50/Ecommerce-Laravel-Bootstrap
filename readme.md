@@ -1,7 +1,7 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 <p align="center">Shopping Cart Solution - Laravel and Bootstrap</p>
 
-## Bootsrap Responsive Online Shop administration panel!
+## Bootsrap Responsive Online Shop  And admin panel !
 
 Current versions
 * Laravel Framework 5.5.3 (https://laravel.com/)
